@@ -16,7 +16,7 @@ Reunir resumos, anotações e dicas práticas relacionadas ao uso da Azure, com 
 ## 💡 Público-Alvo
 Estudantes, profissionais de TI e entusiastas que desejam iniciar ou aprimorar seus conhecimentos na plataforma Azure, especialmente no gerenciamento de máquinas virtuais.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 Plataforma: Microsoft Azure
 
-Ferramentas: Portal Azure, Azure CLI (opcional)
+### Ferramentas: Portal Azure, Azure CLI (opcional)
